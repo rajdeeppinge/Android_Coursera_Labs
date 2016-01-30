@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\santosh\.gradle\caches\modules-2\files-2.1\com.jayway.android.robotium\robotium-solo\5.3.1\e6e664ab1b59d2504c3529f128747c13487f96ca\robotium-solo-5.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e6e664ab1b59d2504c3529f128747c13487f96ca">
+        <dex dex="D:\Android\App_Development\Labs\Lab 3\Lab3b_PermissionsLab\app\build\intermediates\pre-dexed\androidTest\debug\robotium-solo-5.3.1-c2ea7664c97dd3d44979df4004ddface5a50decd.jar" />
+    </item>
+    <item
+        jar="C:\Users\santosh\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Android\App_Development\Labs\Lab 3\Lab3b_PermissionsLab\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-69fa4e63fde79cbc0974c417550fecd009f875f8.jar" />
+    </item>
+
+</items>
